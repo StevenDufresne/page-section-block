@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Exchange Rate Block
- * Plugin URI: https://github.com/StevenDufresne/exchange-rate-block
- * Description: Gutenberg block to show currency conversion for specific currency.
+ * Plugin Name: Page Section Block
+ * Plugin URI: https://github.com/StevenDufresne/page-section-block
+ * Description: Gutenberg block for adding customizable page sections
  * Author: Steve Dufresne
  * Version: 1.0.0
  * License: GPL2+

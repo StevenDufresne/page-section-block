@@ -6,12 +6,12 @@
 
 function block_enqueue() {
     wp_enqueue_script(
-        'exchange-rate-block-script',
+        'page-section-block-script',
         plugins_url( 'js/index.js', __FILE__ )
 	);
 
 	wp_enqueue_style(
-		'exchange-rate-block-css',
+		'page-section-block-css',
 		plugins_url( 'css/style.css', __FILE__ ),
 		array( 'wp-editor' )
 	);
